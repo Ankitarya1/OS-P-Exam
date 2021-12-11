@@ -1,8 +1,6 @@
 /*
 Q2:Write a program to demonstrate fork where parent and child run samecodesand child process should run first.
-Name: Hitesh Harsh
-University Roll no.:20201455
-Examination Roll no.: 20016570007
+
 */
    return 0;
 }
